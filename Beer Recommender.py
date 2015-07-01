@@ -1,4 +1,6 @@
+#####################
 ### Beer Recommender
+#####################
 
 
 #Using user/beer ratings data from BeerAdvocate.com, constructs a model to predict user ratings
